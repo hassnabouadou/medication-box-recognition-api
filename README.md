@@ -215,8 +215,7 @@ Accuracy@3 : 96 %
 ---
 
 ## 👤 Auteur
-
-**Mohamed Chakir** — [@ChakirMohamed](https://github.com/ChakirMohamed)
+hasna bouadou 
 
 ## 🎓 Encadrement
 
